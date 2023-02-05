@@ -1,2 +1,5 @@
 # PET4_MIMO_Radar
 Parameter Estimation Techniques For Bistatic MIMO Radar 
+
+Parameter estimation plays a central role in a large array of signal processing applications which include radar, mobile communications, sonar, multiple-input-multiple-out (MIMO) channel estimation among others. The objective is to sample signals brought about by the output of an array of sensors to undertake measurement information. The measurement information is typically estimated in the form of parameters that describe the number of distinct energy sources, their localisation (e.g. angles-of departure (DOD) and angles-of arrival (DOA), range) their temporal characteristics (e.g. wavelength, frequency, amplitude) or other important quantities (polarization, Doppler shift, etc.).
+This project presents improved techniques of varying parameter estimation algorithms which include among other conditional resolution methods, subspace and sparsity-based angle estimation algorithms for the bistatic MIMO radar system.
